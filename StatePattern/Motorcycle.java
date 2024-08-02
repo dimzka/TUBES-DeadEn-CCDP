@@ -1,3 +1,5 @@
+package StatePattern;
+
 public class Motorcycle {
     private State state;
 

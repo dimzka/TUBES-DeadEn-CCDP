@@ -1,3 +1,4 @@
+package SingletonPattern;
 public class Motorcycle {
     private String model;
 

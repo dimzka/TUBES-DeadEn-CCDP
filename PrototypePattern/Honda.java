@@ -1,3 +1,5 @@
+package PrototypePattern;
+
 public class Honda implements Motorcycle {
     private String model;
     private String engineType;

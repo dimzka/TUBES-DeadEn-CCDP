@@ -1,3 +1,4 @@
+package SingletonPattern;
 public class RepairShop {
     private static RepairShop instance;
 
