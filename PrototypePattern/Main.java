@@ -1,3 +1,4 @@
+package PrototypePattern;
 public class Main {
     public static void main(String[] args) {
         Yamaha yamahaOriginal = new Yamaha("Yamaha R15", "150cc");

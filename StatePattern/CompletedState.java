@@ -1,3 +1,5 @@
+package StatePattern;
+
 public class CompletedState implements State {
     @Override
     public void masukBengkel(Motorcycle motor) {

@@ -1,3 +1,4 @@
+package PrototypePattern;
 public interface Motorcycle {
     Motorcycle clone();
 

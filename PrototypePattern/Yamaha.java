@@ -1,3 +1,4 @@
+package PrototypePattern;
 public class Yamaha implements Motorcycle {
     private String model;
     private String engineType;
