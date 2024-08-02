@@ -1,3 +1,4 @@
+package BuilderPattern;
 public class MotorcycleBuilder {
     private String merk;
     private String model;
